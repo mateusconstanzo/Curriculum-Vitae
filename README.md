@@ -15,6 +15,15 @@ Excelentes conhecimentos em diferentes linguagens de programação e tecnologias
 
 <table>
     <tr>
+        <td> 2014 - 2015 </td>
+        <td> 
+            Lato Sensu em Desenvolvimento de Sistemas para Dispositivos Móveis  <br /> 
+            Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP  <br />
+            Artigo: <br />
+            Orientador: <br />
+        </td>
+    </tr>
+    <tr>
         <td> 2009 - 2010 </td>
         <td> 
             Lato Sensu em Computação – Desenvolvimento de 
