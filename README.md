@@ -95,7 +95,7 @@ aplicações <br />
 
 <table>
     <tr><td>Período   </td><td>06/2015 — Atual         </td></tr>
-    <tr><td>Empresa   </td><td>Dextra                 </td></tr>
+    <tr><td>Empresa   </td><td><a href="http://www.dextra.com.br" target="_blank">Dextra</a>                 </td></tr>
     <tr><td>Cargo     </td><td>Analista de Sistema Sênior</td></tr>
     <tr><td>Atividades</td>
         <td>Programador de aplicações WEB/Mobile, desempenhando o 
@@ -105,7 +105,7 @@ Python.</td></tr>
 
 <table>
     <tr><td>Período   </td><td>2010 — 06/2015         </td></tr>
-    <tr><td>Empresa   </td><td>S2it                 </td></tr>
+    <tr><td>Empresa   </td><td><a href="http://www.s2it.com.br" target="_blank">S2it</a>                 </td></tr>
     <tr><td>Cargo     </td><td>Analista de Sistema Sênior</td></tr>
     <tr><td>Atividades</td>
         <td>Programador de aplicações WEB/Mobile, desempenhando o 
@@ -115,7 +115,7 @@ Python.</td></tr>
 
 <table>
     <tr><td>Período   </td><td>2008 — 2010 </td></tr>
-    <tr><td>Empresa   </td><td>UFSCar - CCDM – Centro de Caracterização e Desenvolvimento de Materiais </td></tr>
+    <tr><td>Empresa   </td><td><a href="http://www.ccdm.ufscar.com.br" target="_blank">UFSCar - CCDM – Centro de Caracterização e Desenvolvimento de Materiais</a> </td></tr>
     <tr><td>Cargo     </td><td>Analista de Sistemas</td></tr>
     <tr><td>Atividades</td>
         <td>Programador aplicações WEB utilizando PHP, AJAX e 
@@ -125,7 +125,7 @@ dados) da empresa.</td></tr>
 
 <table>
     <tr><td>Período   </td><td>2004 — 2008 </td></tr>
-    <tr><td>Empresa   </td><td>UFSCar - Sin - Secretaria Geral de Informatica </td></tr>
+    <tr><td>Empresa   </td><td><a href="http://www.sin.ufscar.com.br" target="_blank">UFSCar - Sin - Secretaria Geral de Informatica</a> </td></tr>
     <tr><td>Cargo     </td><td>Estagiário</td></tr>
     <tr><td>Atividades</td>
         <td>Suporte geral aos usuários e Manutenção dos 
