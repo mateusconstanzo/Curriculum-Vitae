@@ -94,7 +94,17 @@ aplicações <br />
 ## Atuação Profissional
 
 <table>
-    <tr><td>Período   </td><td>2010 — Atual         </td></tr>
+    <tr><td>Período   </td><td>06/2015 — Atual         </td></tr>
+    <tr><td>Empresa   </td><td>Dextra                 </td></tr>
+    <tr><td>Cargo     </td><td>Analista de Sistema Sênior</td></tr>
+    <tr><td>Atividades</td>
+        <td>Programador de aplicações WEB/Mobile, desempenhando o 
+papel de líder técnico e Arquiteto em projetos em JAVA/ 
+Python.</td></tr>
+</table>
+
+<table>
+    <tr><td>Período   </td><td>2010 — 06/2015         </td></tr>
     <tr><td>Empresa   </td><td>S2it                 </td></tr>
     <tr><td>Cargo     </td><td>Analista de Sistema Sênior</td></tr>
     <tr><td>Atividades</td>
