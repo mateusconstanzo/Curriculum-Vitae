@@ -94,7 +94,14 @@ aplicações <br />
 ## Atuação Profissional
 
 <table>
-    <tr><td>Período   </td><td>06/2015 — Atual         </td></tr>
+    <tr><td>Período   </td><td>03/2016 — Atual         </td></tr>
+    <tr><td>Empresa   </td><td><a href="http://www.entelgy.com/" target="_blank">Entelgy</a>                 </td></tr>
+    <tr><td>Cargo     </td><td>Arquiteto de Solução</td></tr>
+    <tr><td>Atividades</td><td></td></tr>
+</table>
+
+<table>
+    <tr><td>Período   </td><td>06/2015 — 03/2016         </td></tr>
     <tr><td>Empresa   </td><td><a href="http://www.dextra.com.br" target="_blank">Dextra</a>                 </td></tr>
     <tr><td>Cargo     </td><td>Analista de Sistema Sênior</td></tr>
     <tr><td>Atividades</td>
